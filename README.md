@@ -8,7 +8,7 @@ Este projeto consiste em uma aplicação simples para gerenciar uma lista de ami
    - O usuário pode digitar o nome de um amigo e adicioná-lo à lista.
    - **Validação**:
      - Não é permitido adicionar nomes em branco.
-     - Não é permitido adicionar nomes duplicados, considerando a comparação de nomes de forma **case insensitive**. Ou seja, "João" e "joão" são considerados o mesmo nome.
+     - Não é permitido adicionar nomes duplicados. Ou seja, "João" e "joão" são considerados o mesmo nome.
      - Caso o nome seja repetido, um alerta será exibido informando o usuário.
 
 ### **Listar Amigos**
